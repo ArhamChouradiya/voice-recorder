@@ -20,4 +20,4 @@ This is python voice-recorder project.
 
 5. Run the file
 
-`python voice-recorder.py`
+`python Voice.py`
